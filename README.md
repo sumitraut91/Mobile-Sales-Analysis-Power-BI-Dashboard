@@ -60,6 +60,7 @@ The dashboard provides key insights into sales trends, customer behavior, and pa
 📊 Average Sales: 40K
 
 
+
 ### 🔹 Visual Insights
 
 ✨ 📍 Sales by City (Map)
@@ -76,6 +77,7 @@ The dashboard provides key insights into sales trends, customer behavior, and pa
 
 ✨ 📋 Brand Performance Table
 
+
 ### 🔹 Filters Available
 
 🎯 Month-wise filter
@@ -89,6 +91,7 @@ The dashboard provides key insights into sales trends, customer behavior, and pa
 🎯 Customer age
 
 
+
 ## 🧮 DAX Measures
 Total Sales = SUM(SalesData[Total Sales])
 
@@ -99,12 +102,14 @@ Total Transactions = COUNT(SalesData[Transaction ID])
 Average Sales = AVERAGE(SalesData[Total Sales])
 
 
+
 ## 🧾 Calculated Columns
 
 Month Name = FORMAT(SalesData[Date], "MMMM")
 
 
 Day Name = FORMAT(SalesData[Date], "dddd")
+
 
 
 ## 🛠 Tech Stack
@@ -115,9 +120,12 @@ Day Name = FORMAT(SalesData[Date], "dddd")
 
 📑 Excel / CSV
 
+
 ## 📷 Dashboard Preview
 
-<img width="928" height="524" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/3552ae9c-31d3-4928-a581-ad8ad24e709d" /> (dashboard.png)
+
+<img width="928" height="524" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/3552ae9c-31d3-4928-a581-ad8ad24e709d" />
+
 
 
 ## 🔍 Key Insights
