@@ -19,7 +19,7 @@ The dashboard provides key insights into sales trends, customer behavior, and pa
 ⭐ Customer satisfaction
 
 
-### 🎯 Objectives
+## 🎯 Objectives
 
 ✔ Analyze overall sales performance
 
@@ -31,20 +31,22 @@ The dashboard provides key insights into sales trends, customer behavior, and pa
 
 ✔ Evaluate payment methods
 
-📂 Dataset Information
-Column Name	Description
-🏙 City	Sales location
-📱 Brand	Mobile brand
-📦 Mobile Model	Product name
-👤 Customer Name	Buyer
-🎂 Customer Age	Age group
-⭐ Rating	Customer feedback
-💳 Payment Method	Mode of payment
-💰 Price Per Unit	Price
-🔢 Units Sold	Quantity
-💵 Total Sales	Revenue
-🆔 Transaction ID	Unique ID
-📅 Date	Transaction date
+## 📂 Dataset Information
+| Column Name       | Description       |
+| ----------------- | ----------------- |
+| 🏙 City           | Sales location    |
+| 📱 Brand          | Mobile brand      |
+| 📦 Mobile Model   | Product name      |
+| 👤 Customer Name  | Buyer             |
+| 🎂 Customer Age   | Age group         |
+| ⭐ Rating          | Customer feedback |
+| 💳 Payment Method | Mode of payment   |
+| 💰 Price Per Unit | Price             |
+| 🔢 Units Sold     | Quantity          |
+| 💵 Total Sales    | Revenue           |
+| 🆔 Transaction ID | Unique ID         |
+| 📅 Date           | Transaction date  |
+
 📊 Dashboard Highlights
 🔹 KPI Cards
 💰 Total Sales: 769M
