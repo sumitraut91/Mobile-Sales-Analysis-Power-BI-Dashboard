@@ -6,14 +6,15 @@ This project presents an interactive Mobile Sales Dashboard built using Microsof
 
 The dashboard provides key insights into sales trends, customer behavior, and payment methods, helping businesses make data-driven decisions.
 
-It helps in understanding:
+### It helps in understanding:
 
 📈 Sales trends
 🏙 City-wise performance
 📱 Brand & model insights
 💳 Payment behavior
 ⭐ Customer satisfaction
-🎯 Objectives
+
+### 🎯 Objectives
 
 ✔ Analyze overall sales performance
 ✔ Identify top-performing brands & cities
