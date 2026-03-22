@@ -9,17 +9,26 @@ The dashboard provides key insights into sales trends, customer behavior, and pa
 ### It helps in understanding:
 
 📈 Sales trends
+
 🏙 City-wise performance
+
 📱 Brand & model insights
+
 💳 Payment behavior
+
 ⭐ Customer satisfaction
+
 
 ### 🎯 Objectives
 
 ✔ Analyze overall sales performance
+
 ✔ Identify top-performing brands & cities
+
 ✔ Track monthly & daily trends
+
 ✔ Understand customer ratings
+
 ✔ Evaluate payment methods
 
 📂 Dataset Information
