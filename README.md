@@ -1,5 +1,6 @@
-📊 Mobile Sales Dashboard – Power BI Project
-📌 Project Overview
+# 📊 Mobile Sales Dashboard – Power BI Project
+
+## 📌 Project Overview
 
 This project presents an interactive Mobile Sales Dashboard built using Microsoft Power BI to analyze mobile sales performance across different cities, brands, and time periods.
 
