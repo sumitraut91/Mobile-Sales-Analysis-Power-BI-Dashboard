@@ -47,31 +47,49 @@ The dashboard provides key insights into sales trends, customer behavior, and pa
 | 🆔 Transaction ID | Unique ID         |
 | 📅 Date           | Transaction date  |
 
-📊 Dashboard Highlights
-🔹 KPI Cards
+## 📊 Dashboard Highlights
+
+### 🔹 KPI Cards
+
 💰 Total Sales: 769M
+
 📦 Total Quantity: 19K
+
 🔁 Transactions: 4K
+
 📊 Average Sales: 40K
-🔹 Visual Insights
+
+
+### 🔹 Visual Insights
 
 ✨ 📍 Sales by City (Map)
+
 ✨ 📈 Monthly Quantity Trend
+
 ✨ ⭐ Customer Ratings Distribution
+
 ✨ 💳 Payment Method Split
+
 ✨ 📱 Sales by Mobile Model
+
 ✨ 📅 Daily Sales Trend
+
 ✨ 📋 Brand Performance Table
 
-🔹 Filters Available
+### 🔹 Filters Available
 
 🎯 Month-wise filter
+
 🎯 Brand filter
+
 🎯 Mobile model
+
 🎯 Payment method
+
 🎯 Customer age
 
-🧮 DAX Measures
+
+## 🧮 DAX Measures
 Total Sales = SUM(SalesData[Total Sales])
 
 Total Quantity = SUM(SalesData[Units Sold])
@@ -79,23 +97,37 @@ Total Quantity = SUM(SalesData[Units Sold])
 Total Transactions = COUNT(SalesData[Transaction ID])
 
 Average Sales = AVERAGE(SalesData[Total Sales])
-🧾 Calculated Columns
+
+
+## 🧾 Calculated Columns
+
 Month Name = FORMAT(SalesData[Date], "MMMM")
 
+
 Day Name = FORMAT(SalesData[Date], "dddd")
-🛠 Tech Stack
+
+
+## 🛠 Tech Stack
+
 📊 Microsoft Power BI
+
 🗄 SQL
+
 📑 Excel / CSV
-📷 Dashboard Preview
 
-📌 Add your screenshot here (already you have it 👍)
+## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
-🔍 Key Insights
+<img width="928" height="524" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/3552ae9c-31d3-4928-a581-ad8ad24e709d" /> (dashboard.png)
+
+
+## 🔍 Key Insights
 
 📌 Apple & Samsung lead in sales
+
 📌 Peak sales observed in mid-year months
+
 📌 UPI & Debit Card dominate transactions
+
 📌 High-performing cities drive majority revenue
+
 📌 Ratings are mostly ⭐⭐⭐⭐ and ⭐⭐⭐⭐⭐
